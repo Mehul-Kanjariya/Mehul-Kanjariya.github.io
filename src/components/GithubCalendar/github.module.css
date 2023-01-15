@@ -1,0 +1,71 @@
+.container {
+    width: 100%;
+    text-align: center;
+    margin:auto auto 50px auto;
+}
+
+.GitHubCalendar {
+    width: 55%;
+    margin: 20px auto;
+}
+
+.githubStats {
+    display: flex;
+    justify-content: space-between;
+    width: fit-content;
+    margin: auto;
+}
+
+.heading {
+    text-align: center;
+    color: #444649;
+    font-family: cursive;
+    animation: slideInLeft 0.75s ease both;
+    font-size: 3rem;
+  }
+
+@media (min-width:0px) and (max-width: 420px) {
+    .githubStats {
+        display:block
+    }
+    .githubStats img {
+        width: 80%;
+        margin: 0px auto;
+    }
+    .GitHubCalendar {
+        width: 90%;
+    }
+}
+
+@media (min-width:420px) and (max-width: 670px) {
+    .githubStats {
+        display:block
+    }
+    .GitHubCalendar {
+        width: 90%;
+    }
+    .githubStats img {
+        width: 60%;
+        margin: 0px auto;
+    }
+}
+
+@media (min-width:671px) and (max-width:830px) {
+    .githubStats {
+        display:block
+    }
+    .GitHubCalendar {
+        width: 90%;
+    }
+    .githubStats img {
+        width: 60%;
+        margin: 0px auto;
+    }
+}
+
+@media (min-width:830px) {
+    .githubStats img {
+        width: 48.5%;
+        margin: 0px auto;
+    }
+}
