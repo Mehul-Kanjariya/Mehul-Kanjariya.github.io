@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/munna-gupta-portfolio/static/css/main.98820c55.css",
-    "main.js": "/munna-gupta-portfolio/static/js/main.b7dd1357.js",
-    "static/js/787.1ed0c42c.chunk.js": "/munna-gupta-portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/htmlorbitz.png": "/munna-gupta-portfolio/static/media/htmlorbitz.77ff0d1cf73e31564431.png",
-    "static/media/orbitz.png": "/munna-gupta-portfolio/static/media/orbitz.b0b317681c24f0277266.png",
-    "static/media/asos.png": "/munna-gupta-portfolio/static/media/asos.e46f9a691dd23ca62914.png",
-    "static/media/profilePic.jpg": "/munna-gupta-portfolio/static/media/profilePic.f956ba0fc55a77d39565.jpg",
-    "index.html": "/munna-gupta-portfolio/index.html",
-    "main.98820c55.css.map": "/munna-gupta-portfolio/static/css/main.98820c55.css.map",
-    "main.b7dd1357.js.map": "/munna-gupta-portfolio/static/js/main.b7dd1357.js.map",
-    "787.1ed0c42c.chunk.js.map": "/munna-gupta-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.98820c55.css",
+    "main.js": "/static/js/main.20cadf4f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/htmlorbitz.png": "/static/media/htmlorbitz.77ff0d1cf73e31564431.png",
+    "static/media/orbitz.png": "/static/media/orbitz.b0b317681c24f0277266.png",
+    "static/media/asos.png": "/static/media/asos.e46f9a691dd23ca62914.png",
+    "static/media/profilePic.jpg": "/static/media/profilePic.f956ba0fc55a77d39565.jpg",
+    "index.html": "/index.html",
+    "main.98820c55.css.map": "/static/css/main.98820c55.css.map",
+    "main.20cadf4f.js.map": "/static/js/main.20cadf4f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98820c55.css",
-    "static/js/main.b7dd1357.js"
+    "static/js/main.20cadf4f.js"
   ]
 }
