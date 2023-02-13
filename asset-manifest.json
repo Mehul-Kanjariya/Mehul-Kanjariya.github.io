@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4a37aee8.css",
-    "main.js": "/static/js/main.0fbf34b9.js",
+    "main.js": "/static/js/main.fb2d9e82.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/htmlorbitz.png": "/static/media/htmlorbitz.77ff0d1cf73e31564431.png",
     "static/media/orbitz.png": "/static/media/orbitz.b0b317681c24f0277266.png",
@@ -10,11 +10,11 @@
     "static/media/Kanjariya_Mehul_Kumar_Resume.pdf": "/static/media/Kanjariya_Mehul_Kumar_Resume.c915ce841b96d3e598d9.pdf",
     "index.html": "/index.html",
     "main.4a37aee8.css.map": "/static/css/main.4a37aee8.css.map",
-    "main.0fbf34b9.js.map": "/static/js/main.0fbf34b9.js.map",
+    "main.fb2d9e82.js.map": "/static/js/main.fb2d9e82.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a37aee8.css",
-    "static/js/main.0fbf34b9.js"
+    "static/js/main.fb2d9e82.js"
   ]
 }
