@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8dd76e8.css",
-    "main.js": "/static/js/main.eb548d7b.js",
+    "main.css": "/static/css/main.4a37aee8.css",
+    "main.js": "/static/js/main.dfbbaeae.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/htmlorbitz.png": "/static/media/htmlorbitz.77ff0d1cf73e31564431.png",
     "static/media/orbitz.png": "/static/media/orbitz.b0b317681c24f0277266.png",
     "static/media/asos.png": "/static/media/asos.e46f9a691dd23ca62914.png",
     "static/media/profilePic.jpg": "/static/media/profilePic.f956ba0fc55a77d39565.jpg",
+    "static/media/Kanjariya_Mehul_Kumar_Resume.pdf": "/static/media/Kanjariya_Mehul_Kumar_Resume.c915ce841b96d3e598d9.pdf",
     "index.html": "/index.html",
-    "main.b8dd76e8.css.map": "/static/css/main.b8dd76e8.css.map",
-    "main.eb548d7b.js.map": "/static/js/main.eb548d7b.js.map",
+    "main.4a37aee8.css.map": "/static/css/main.4a37aee8.css.map",
+    "main.dfbbaeae.js.map": "/static/js/main.dfbbaeae.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8dd76e8.css",
-    "static/js/main.eb548d7b.js"
+    "static/css/main.4a37aee8.css",
+    "static/js/main.dfbbaeae.js"
   ]
 }
